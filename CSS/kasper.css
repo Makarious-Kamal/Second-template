@@ -200,7 +200,7 @@ header nav .form i{
 .landing{
         background-color: black;
         /* will appear in case the image is gone  */
-        background-image: url(../Images/landing.jpg);
+        background-image: url(../images/landing.jpg);
         background-size: cover;
         min-height: 100vh;
         position: relative;
@@ -399,7 +399,7 @@ header nav .form i{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: black;
-    background-image: url(../Images/design-features.jpg);
+    background-image: url(../images/design-features.jpg);
     background-size: cover;
     height: 600px;
     position: relative;
@@ -634,7 +634,7 @@ header nav .form i{
 /* stats start  */
 .stats{
     background-color: black;
-    background-image: url(../Images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     position: relative;
 }
@@ -826,7 +826,7 @@ header nav .form i{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: black;
-    background-image: url(../Images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -945,7 +945,7 @@ header nav .form i{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: black;
-    background-image: url(../Images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1118,7 +1118,7 @@ footer{
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
     background-color: black;
-    background-image: url(../Images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     position: relative;
 }
